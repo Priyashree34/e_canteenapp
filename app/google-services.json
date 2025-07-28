@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "104174159489",
+    "firebase_url": "https://ecanteenapp-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "ecanteenapp",
+    "storage_bucket": "ecanteenapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:104174159489:android:af3388cbe2bb08dedcaf80",
+        "android_client_info": {
+          "package_name": "com.example.e_canteenapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbSvYmVZntFAkFva4qAylwtuVYSBr-g8Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
